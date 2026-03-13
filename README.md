@@ -19,7 +19,7 @@ The styling choices were made to create a modern, confident, and professional po
 - Typography:
   I used a clean sans-serif style for clarity and readability. Text spacing and line-height were set to improve scanning and reading, especially in section descriptions and captions. Arial was my main font as I wanted it to be uniform with all browsers without needing downloaded or external fonts that could give errors or faulty outputs later in my project.
 
-  - Layout:
+- Layout:
   The page uses a centered, single-column structure with max-width containers, rounded content panels, and responsive media sizing. This keeps the content focused, avoids visual clutter, and scales well on smaller screens. I needed the content to work well on mobile devices and thus used this structure to avoid an outdated look on mobile and tablet devices. I like the rounded corners and believe they soften the entire look of the project, matching that of the buttons.
 
 ## Look And Feel + Brand Alignment
