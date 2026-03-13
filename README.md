@@ -39,7 +39,7 @@ Compared with the earlier draft, this version now reflects the updated implement
 - Responsive spacing and section padding were refined for mobile screens
 - Portfolio now includes two video showcase entries, namely Reskin and Sunglideonline
 - Two new headings for each portfolio section were added.
-- a new backgroundless logo was added and it looks nice on the background colour chosen. 
+- A new backgroundless logo was added and it looks nice on the background colour chosen. 
 - I initially started with white text for headings and paragraphs but saw the AA and AAA test failed so went for the dark Grey(off black mentioned earlier).
 
 ## CSS Validation Process
